@@ -1,0 +1,23 @@
+{
+  "name": "learn-functional-programming",
+  "version": "1.0.0",
+  "description": "Learn functional programming using Javascript and Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha exercises/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jtwebman/learn-functional-programming.git"
+  },
+  "author": "JT Turner <jtwebman@gmail.com> (http://jtwebman.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jtwebman/learn-functional-programming/issues"
+  },
+  "homepage": "https://github.com/jtwebman/learn-functional-programming",
+  "devDependencies": {
+    "mocha": "^2.3.3",
+    "must": "^0.13.1"
+  }
+}
