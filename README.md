@@ -22,13 +22,13 @@ use git. If you need to learn more about these checkout the following.
 
 ## Chapters
 
-1.  [Getting Started](./getting_started.md)
-2.  [Filter, Map, and Reduce](./filter_map_reduce.md) (Working on it)
-3.  [Higher Order Functions](./higher_order_functions.md) (Next)
-4.  [Currying](./currying.md)
-5.  [Composing](./composing.md)
-6.  [Declarative vs Imperative](./declarative_vs_imperative.md)
-7.  [Hindley–Milner type system](./hindley–milner_type_system.md)
-8.  [Functors and Control Flow](./functors_and_control_flow.md)
-9.  [Monads](./monads.md)
-10. [Applicative Functors](./applicative_functors.md)
+1.  [Getting Started](./01.getting_started.md)
+2.  [Filter, Map, and Reduce](./02.filter_map_reduce.md) (Working on it)
+3.  [Higher Order Functions](./03.higher_order_functions.md) (Next)
+4.  [Currying](./04.currying.md) (Coming Soon)
+5.  [Composing](./05.composing.md) (Coming Soon)
+6.  [Declarative vs Imperative](./06.declarative_vs_imperative.md) (Coming Soon)
+7.  [Hindley–Milner type system](./07.hindley–milner_type_system.md)(Coming Soon)
+8.  [Functors and Control Flow](./08.functors_and_control_flow.md) (Coming Soon)
+9.  [Monads](./09.monads.md) (Coming Soon)
+10. [Applicative Functors](./10.applicative_functors.md) (Coming Soon)
